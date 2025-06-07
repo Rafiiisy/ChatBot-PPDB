@@ -1,0 +1,53 @@
+[
+  {
+    "jurusan": "Usaha Layanan Pariwisata",
+    "jalur": {
+      "afirmasi": {
+        "daya_tampung": "1 kelas = 36 siswa",
+        "nilai_terendah": 263.5,
+        "nilai_tertinggi": 290.32,
+        "rata_rata": 272.26
+      },
+      "reguler": {
+        "daya_tampung": "1 kelas = 36 siswa",
+        "nilai_terendah": 273.29,
+        "nilai_tertinggi": 326.25,
+        "rata_rata": 285.67
+      }
+    }
+  },
+  {
+    "jurusan": "Perhotelan",
+    "jalur": {
+      "afirmasi": {
+        "daya_tampung": "2 kelas = 72 siswa",
+        "nilai_terendah": 266.19,
+        "nilai_tertinggi": 303.08,
+        "rata_rata": 280.66
+      },
+      "reguler": {
+        "daya_tampung": "2 kelas = 72 siswa",
+        "nilai_terendah": 261.59,
+        "nilai_tertinggi": 312.49,
+        "rata_rata": 274.3
+      }
+    }
+  },
+  {
+    "jurusan": "Kuliner",
+    "jalur": {
+      "afirmasi": {
+        "daya_tampung": "4 kelas = 144 siswa",
+        "nilai_terendah": 267.65,
+        "nilai_tertinggi": 321.21,
+        "rata_rata": 284.75
+      },
+      "reguler": {
+        "daya_tampung": "4 kelas = 144 siswa",
+        "nilai_terendah": 265.33,
+        "nilai_tertinggi": 319.69,
+        "rata_rata": 280.14
+      }
+    }
+  }
+]
