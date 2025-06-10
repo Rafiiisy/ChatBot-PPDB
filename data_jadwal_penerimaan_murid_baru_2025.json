@@ -1,0 +1,68 @@
+[
+  {
+    "no": 1,
+    "tanggal": "08–16 Mei 2025",
+    "kegiatan": "Input data khusus lulusan luar DIY dan lulusan DIY sebelum tahun 2025",
+    "keterangan": "Untuk lulusan luar DIY dan sebelum tahun 2025"
+  },
+  {
+    "no": 2,
+    "tanggal": "26 Mei–5 Juni 2025",
+    "kegiatan": "Pengecekan data",
+    "keterangan": "Cek NIK, data rapor, dan status afirmasi"
+  },
+  {
+    "no": 3,
+    "tanggal": "10–13 Juni 2025",
+    "kegiatan": "Verifikasi dokumen",
+    "keterangan": "Afirmasi, jalur mutasi orangtua, penambahan nilai prestasi, pendataan radius tempat tinggal khusus bagi calon murid yang berdomisili dalam radius sekolah tujuan"
+  },
+  {
+    "no": 4,
+    "tanggal": "18–23 Juni 2025",
+    "kegiatan": "Ajuan akun dan aktivasi PIN/TOKEN",
+    "keterangan": "Calon peserta didik membuat akun untuk sistem pendaftaran dan mengaktifkan PIN/TOKEN sebagai akses masuk ke sistem SPMB"
+  },
+  {
+    "no": 5,
+    "tanggal": "25–26 Juni 2025",
+    "kegiatan": "Pendaftaran dan seleksi SPMB Reguler",
+    "keterangan": "Jalur domisili radius, afirmasi, mutasi, dan prestasi"
+  },
+  {
+    "no": 6,
+    "tanggal": "30 Juni–1 Juli 2025",
+    "kegiatan": "Pendaftaran dan seleksi SPMB Reguler",
+    "keterangan": "Jalur domisili wilayah"
+  },
+  {
+  "no": 7,
+  "tanggal": "2 Juli 2025",
+  "kegiatan": "Pengumuman",
+  "keterangan": "Online dan di masing-masing sekolah"
+  },
+  {
+  "no": 8,
+  "tanggal": "2–4 Juli 2025",
+  "kegiatan": "Daftar ulang",
+  "keterangan": "Di masing-masing sekolah"
+  },
+  {
+    "no": 9,
+    "tanggal": "7–8 Juli 2025",
+    "kegiatan": "Seleksi calon murid cadangan",
+    "keterangan": "Online"
+  },
+  {
+    "no": 10,
+    "tanggal": "8 Juli 2025",
+    "kegiatan": "Pengumuman hasil seleksi murid cadangan",
+    "keterangan": "Pukul 15.00 WIB di masing-masing sekolah"
+  },
+  {
+    "no": 11,
+    "tanggal": "9 Juli 2025",
+    "kegiatan": "Daftar ulang murid cadangan",
+    "keterangan": "Di masing-masing sekolah"
+  }
+]
